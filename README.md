@@ -64,11 +64,17 @@
 <h2 align="center">Minhas Skills</h2>
 <p align="center">
 
+<img src="https://img.shields.io/badge/Visual_Studio-1E90FF?style=for-the-badge&logo=visual%20studio&logoColor=white" height=25>
+
+<img src="https://img.shields.io/badge/Pycharm-1E90FF?style=for-the-badge&logo=pycharm&logoColor=white" height=25>
+
 <img src="https://img.shields.io/badge/HTML5-1E90FF?style=for-the-badge&logo=html5&logoColor=white" height=25>
 
 <img src="https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white" height=25>
 
 <img src="https://img.shields.io/badge/JavaScript-1E90FF?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>
+
+<img src="https://img.shields.io/badge/bootstrap-1E90FF.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height=25>
 
 <img src="https://img.shields.io/badge/Java-1E90FF?style=for-the-badge&logo=oracle&logoColor=F7DF1E" height=25>
 
@@ -77,10 +83,6 @@
 <img src="https://img.shields.io/badge/Node.js-1E90FF?style=for-the-badge&logo=nodedotjs&logoColor=white" height=25>
 
 <img src="https://img.shields.io/badge/React-1E90FF?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>
-
-<img src="https://img.shields.io/badge/bootstrap-1E90FF.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height=25>
-
-<img src="https://img.shields.io/badge/Visual_Studio-1E90FF?style=for-the-badge&logo=visual%20studio&logoColor=white" height=25>
 
 <img src="https://img.shields.io/badge/GIT-1E90FF?style=for-the-badge&logo=git&logoColor=white" height=25>
 </p>
