@@ -2,10 +2,10 @@
 
 <p align="center">
 <a href="https://twitter.com/thiagobrunomc"><img src="https://img.shields.io/badge/thiagobrunomc-1E90FF?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-<a href="https://www.instagram.com/thiagocavaco/"><img src="https://img.shields.io/badge/ThiagoCavaco-1E90FF?style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-<a href="https://www.youtube.com/channel/UCC-gXxeR4qdsmkwQDjxCmIg"><img src="https://img.shields.io/badge/7hgd-1E90FF?style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
-<a href="https://www.linkedin.com/in/thiagonet/"><img src="https://img.shields.io/badge/ThiagoNET-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="https://zn11f-my.sharepoint.com/:b:/g/personal/thiago_zn11f_onmicrosoft_com/EUxP-fM3umlGuhSP2OkPcNAB27RbvarZ-OF5OT3RXHFIew?e=y3kCpn"><img src="https://img.shields.io/badge/Curriculo-1E90FF?style=for-the-badge&logo=googledrive&logoColor=white" height=25></a>
+<a href="https://www.instagram.com/thiagocavaco/"><img src="https://img.shields.io/badge/ThiagoCavaco-FF7F50?style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/thiagonet/"><img src="https://img.shields.io/badge/ThiagoNET-4169E1?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://www.youtube.com/channel/UCC-gXxeR4qdsmkwQDjxCmIg"><img src="https://img.shields.io/badge/7hgd-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
+<a href="https://zn11f-my.sharepoint.com/:b:/g/personal/thiago_zn11f_onmicrosoft_com/EUxP-fM3umlGuhSP2OkPcNAB27RbvarZ-OF5OT3RXHFIew?e=y3kCpn"><img src="https://img.shields.io/badge/Curriculo-8A2BE2?style=for-the-badge&logo=googledrive&logoColor=white" height=25></a>
 </p>
 
 <p align="center">
