@@ -1,20 +1,9 @@
-![alt text](https://github.com/TNthiagonet/TNthiagonet/blob/main/development.gif?raw=true)
-
-<p align="center">
-<a href="https://twitter.com/thiagobrunomc"><img src="https://img.shields.io/badge/Twitter(X)-1E90FF?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-<a href="https://www.instagram.com/thiagocavaco/"><img src="https://img.shields.io/badge/Instagram-FF7F50?style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-<a href="https://www.linkedin.com/in/thiagonet/"><img src="https://img.shields.io/badge/Linkedin-4169E1?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="https://www.youtube.com/channel/UCC-gXxeR4qdsmkwQDjxCmIg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
-<a href="https://zn11f-my.sharepoint.com/:b:/g/personal/thiago_zn11f_onmicrosoft_com/EUxP-fM3umlGuhSP2OkPcNAB27RbvarZ-OF5OT3RXHFIew?e=y3kCpn"><img src="https://img.shields.io/badge/Curriculo-8A2BE2?style=for-the-badge&logo=adobe&logoColor=white" height=25></a>
-</p>
-
-<p align="center">
-    Desenvolvedor Front End, crio sites de sucesso que atendem às necessidades dos clientes. Tenho experiência na produção de sites inovadores e impactantes que envolvem os clientes e entregam resultados de negócios. Além disso, sou orientado a soluções que permitirão que os sites funcionem com eficiência.
-</p>
-
-
-<!--Project Section -->
-
+<!--Primeira GIF -->
+![alt text](https://github.com/TNthiagonet/TNthiagonet/blob/main/developer_rede.gif?raw=true)
+<!--Texto de apresentação animado -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=2000&multiline=true&width=435&lines=Ol%C3%A1!+eu+sou+o+Thiago+Menezes;muitos+me+conhecem+como+ThiagoNET;...;..." alt="Typing SVG" /></a>
+<p>Graduando em sistemas de informação, desenvolvedor de aplicações web, cristão católico, filho, pai, luthier, músico e gamer!</p>
+<!--Sesão de Projetos -->
 <h2 align="center">Projetos em destaque </h2>
 <div align="center">
 <table>
@@ -60,29 +49,37 @@
 </table>
 
 </div>
-
+<!--Sesão de Habilidades -->
 <h2 align="center">Minhas Skills</h2>
 <p align="center">
-
-<img src="https://img.shields.io/badge/Visual_Studio-1E90FF?style=for-the-badge&logo=visual%20studio&logoColor=white" height=25>
-
-<img src="https://img.shields.io/badge/Pycharm-1E90FF?style=for-the-badge&logo=pycharm&logoColor=white" height=25>
-
-<img src="https://img.shields.io/badge/HTML5-1E90FF?style=for-the-badge&logo=html5&logoColor=white" height=25>
-
+<img src="https://img.shields.io/badge/Visual_Studio-0000CD?style=for-the-badge&logo=visual%20studio&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Pycharm-32CD32?style=for-the-badge&logo=pycharm&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/HTML5-8B0000?style=for-the-badge&logo=html5&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/JavaScript-DAA520?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>
+<img src="https://img.shields.io/badge/bootstrap-8A2BE2.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Java-778899?style=for-the-badge&logo=oracle&logoColor=F7DF1E" height=25>
+<img src="https://img.shields.io/badge/Python-4682B4?style=for-the-badge&logo=python&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Node.js-008000?style=for-the-badge&logo=nodedotjs&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/React-4169E1?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>
+<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" height=25>
+</p>
 
-<img src="https://img.shields.io/badge/JavaScript-1E90FF?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>
-
-<img src="https://img.shields.io/badge/bootstrap-1E90FF.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height=25>
-
-<img src="https://img.shields.io/badge/Java-1E90FF?style=for-the-badge&logo=oracle&logoColor=F7DF1E" height=25>
-
-<img src="https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=white" height=25>
-
-<img src="https://img.shields.io/badge/Node.js-1E90FF?style=for-the-badge&logo=nodedotjs&logoColor=white" height=25>
-
-<img src="https://img.shields.io/badge/React-1E90FF?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>
-
-<img src="https://img.shields.io/badge/GIT-1E90FF?style=for-the-badge&logo=git&logoColor=white" height=25>
+<!--Segunda GIF -->
+  
+![alt text](https://github.com/TNthiagonet/TNthiagonet/blob/main/development.gif?raw=true)
+   
+<!--Status GitHub -->
+<div align="left">
+  <a href="https://github.com/TNthiagonet">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TNthiagonet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TNthiagonet&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+<!--Redes -->
+<p align="left">
+<a href="https://twitter.com/thiagobrunomc"><img src="https://img.shields.io/badge/Twitter(X)-1E90FF?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+<a href="https://www.instagram.com/thiagocavaco/"><img src="https://img.shields.io/badge/Instagram-FF7F50?style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/thiagonet/"><img src="https://img.shields.io/badge/Linkedin-4169E1?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://www.youtube.com/channel/UCC-gXxeR4qdsmkwQDjxCmIg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
+<a href="https://zn11f-my.sharepoint.com/:b:/g/personal/thiago_zn11f_onmicrosoft_com/EUxP-fM3umlGuhSP2OkPcNAB27RbvarZ-OF5OT3RXHFIew?e=y3kCpn"><img src="https://img.shields.io/badge/Curriculo-8A2BE2?style=for-the-badge&logo=adobe&logoColor=white" height=25></a>
 </p>
