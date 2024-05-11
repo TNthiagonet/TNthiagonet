@@ -1,16 +1,9 @@
+<!--Primeira GIF -->
 ![alt text](https://github.com/TNthiagonet/TNthiagonet/blob/main/developer_rede.gif?raw=true)
+<!--Texto de apresentação animado -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=2000&multiline=true&width=435&lines=Ol%C3%A1!+eu+sou+o+Thiago+Menezes;muitos+me+conhecem+como+ThiagoNET;...;..." alt="Typing SVG" /></a>
-<p>Graduando em Sistemas de Informação, Desenvolvedor, Cristão, Pai, Luthier, Músico e Gamer!</p>
-<p align="center">
-<a href="https://twitter.com/thiagobrunomc"><img src="https://img.shields.io/badge/Twitter(X)-1E90FF?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-<a href="https://www.instagram.com/thiagocavaco/"><img src="https://img.shields.io/badge/Instagram-FF7F50?style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-<a href="https://www.linkedin.com/in/thiagonet/"><img src="https://img.shields.io/badge/Linkedin-4169E1?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="https://www.youtube.com/channel/UCC-gXxeR4qdsmkwQDjxCmIg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
-<a href="https://zn11f-my.sharepoint.com/:b:/g/personal/thiago_zn11f_onmicrosoft_com/EUxP-fM3umlGuhSP2OkPcNAB27RbvarZ-OF5OT3RXHFIew?e=y3kCpn"><img src="https://img.shields.io/badge/Curriculo-8A2BE2?style=for-the-badge&logo=adobe&logoColor=white" height=25></a>
-</p>
-
+<p>Graduando em sistemas de informação, desenvolvedor de aplicações, cristão católico, pai, luthier, músico e gamer!</p>
 <!--Project Section -->
-
 <h2 align="center">Projetos em destaque </h2>
 <div align="center">
 <table>
@@ -84,9 +77,17 @@
 </p>
 
 ![alt text](https://github.com/TNthiagonet/TNthiagonet/blob/main/development.gif?raw=true)
-
+<!--Redes -->
 <div align="left">
   <a href="https://github.com/7H14G0D">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=7h14g0d&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7h14g0d&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+<p align="center">
+<a href="https://twitter.com/thiagobrunomc"><img src="https://img.shields.io/badge/Twitter(X)-1E90FF?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+<a href="https://www.instagram.com/thiagocavaco/"><img src="https://img.shields.io/badge/Instagram-FF7F50?style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/thiagonet/"><img src="https://img.shields.io/badge/Linkedin-4169E1?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://www.youtube.com/channel/UCC-gXxeR4qdsmkwQDjxCmIg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
+<a href="https://zn11f-my.sharepoint.com/:b:/g/personal/thiago_zn11f_onmicrosoft_com/EUxP-fM3umlGuhSP2OkPcNAB27RbvarZ-OF5OT3RXHFIew?e=y3kCpn"><img src="https://img.shields.io/badge/Curriculo-8A2BE2?style=for-the-badge&logo=adobe&logoColor=white" height=25></a>
+</p>
