@@ -1,4 +1,4 @@
-![alt text](https://github.com/TNthiagonet/TNthiagonet/blob/main/development.gif?raw=true)
+![alt text](https://github.com/TNthiagonet/TNthiagonet/blob/main/development_rede.gif?raw=true)
 
 <p align="center">
 <a href="https://twitter.com/thiagobrunomc"><img src="https://img.shields.io/badge/Twitter(X)-1E90FF?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
@@ -86,3 +86,5 @@
 
 <img src="https://img.shields.io/badge/GIT-1E90FF?style=for-the-badge&logo=git&logoColor=white" height=25>
 </p>
+
+![alt text](https://github.com/TNthiagonet/TNthiagonet/blob/main/development.gif?raw=true)
