@@ -1,4 +1,4 @@
-![alt text](https://github.com/TNthiagonet/TNthiagonet/blob/main/development_rede.gif?raw=true)
+![alt text](https://github.com/TNthiagonet/TNthiagonet/blob/main/developer_rede.gif?raw=true)
 
 <p align="center">
 <a href="https://twitter.com/thiagobrunomc"><img src="https://img.shields.io/badge/Twitter(X)-1E90FF?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
