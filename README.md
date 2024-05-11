@@ -2,7 +2,7 @@
 ![alt text](https://github.com/TNthiagonet/TNthiagonet/blob/main/developer_rede.gif?raw=true)
 <!--Texto de apresentação animado -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=2000&multiline=true&width=435&lines=Ol%C3%A1!+eu+sou+o+Thiago+Menezes;muitos+me+conhecem+como+ThiagoNET;...;..." alt="Typing SVG" /></a>
-<p>Graduando em sistemas de informação, desenvolvedor de aplicações, cristão católico, pai, luthier, músico e gamer!</p>
+<p>Graduando em sistemas de informação, desenvolvedor de aplicações web, cristão católico, filho, pai, luthier, músico e gamer!</p>
 <!--Sesão de Projetos -->
 <h2 align="center">Projetos em destaque </h2>
 <div align="center">
