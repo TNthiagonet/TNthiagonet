@@ -1,11 +1,11 @@
 ![alt text](https://github.com/TNthiagonet/TNthiagonet/blob/main/development.gif?raw=true)
 
 <p align="center">
-<a href="https://twitter.com/thiagobrunomc"><img src="https://img.shields.io/badge/thiagobrunomc-9b6647?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-<a href="https://www.instagram.com/thiagocavaco/"><img src="https://img.shields.io/badge/ThiagoCavaco-9b6647?style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-<a href="https://www.youtube.com/channel/UCC-gXxeR4qdsmkwQDjxCmIg"><img src="https://img.shields.io/badge/7hgd-9b6647?style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
-<a href="https://www.linkedin.com/in/thiagonet/"><img src="https://img.shields.io/badge/ThiagoNET-9b6647?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="https://zn11f-my.sharepoint.com/:b:/g/personal/thiago_zn11f_onmicrosoft_com/EUxP-fM3umlGuhSP2OkPcNAB27RbvarZ-OF5OT3RXHFIew?e=y3kCpn"><img src="https://img.shields.io/badge/Curriculo-9b6647?style=for-the-badge&logo=googledrive&logoColor=white" height=25></a>
+<a href="https://twitter.com/thiagobrunomc"><img src="https://img.shields.io/badge/thiagobrunomc-1E90FF?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+<a href="https://www.instagram.com/thiagocavaco/"><img src="https://img.shields.io/badge/ThiagoCavaco-1E90FF?style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+<a href="https://www.youtube.com/channel/UCC-gXxeR4qdsmkwQDjxCmIg"><img src="https://img.shields.io/badge/7hgd-1E90FF?style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/thiagonet/"><img src="https://img.shields.io/badge/ThiagoNET-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://zn11f-my.sharepoint.com/:b:/g/personal/thiago_zn11f_onmicrosoft_com/EUxP-fM3umlGuhSP2OkPcNAB27RbvarZ-OF5OT3RXHFIew?e=y3kCpn"><img src="https://img.shields.io/badge/Curriculo-1E90FF?style=for-the-badge&logo=googledrive&logoColor=white" height=25></a>
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
 <a href="https://bencash.com.br/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=9b6647"/>
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=1E90FF"/>
 </a>
 </p>
 <p><strong>JavaScript, CSS3, HTML5</strong> - Página dinâmica da BenCash Financeira que disponibiliza de serviços como emprestimo, seguros, financiamentos e outros...</p>
@@ -52,7 +52,7 @@
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
 <a href="https://thalynemenezes.com.br/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=9b6647"/>
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=1E90FF"/>
 </a>
 </p>
 <p><strong>JavaScript, CSS3, HTML5, Bootstrap</strong> Página dinâmica da professora de lingua portuguesa Thalyne Menezes, onde ela disponibiliza cursos de redação e preparação de alunos para a prova do ENEM</p>
@@ -61,27 +61,27 @@
 
 </div>
 
-<h2 align="center">Technical Skills</h2>
+<h2 align="center">Minhas Skills</h2>
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-9b6647?style=for-the-badge&logo=html5&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/HTML5-1E90FF?style=for-the-badge&logo=html5&logoColor=white" height=25>
 
-<img src="https://img.shields.io/badge/CSS3-9b6647?style=for-the-badge&logo=css3&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white" height=25>
 
-<img src="https://img.shields.io/badge/JavaScript-9b6647?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>
+<img src="https://img.shields.io/badge/JavaScript-1E90FF?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>
 
-<img src="https://img.shields.io/badge/Node.js-9b6647?style=for-the-badge&logo=nodedotjs&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Node.js-1E90FF?style=for-the-badge&logo=nodedotjs&logoColor=white" height=25>
 
-<img src="https://img.shields.io/badge/React-9b6647?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>
+<img src="https://img.shields.io/badge/React-1E90FF?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>
 
-<img src="https://img.shields.io/badge/Express.js-9b6647?style=for-the-badge&logo=express&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Express.js-1E90FF?style=for-the-badge&logo=express&logoColor=white" height=25>
 
-<img src="https://img.shields.io/badge/MongoDB-9b6647?style=for-the-badge&logo=mongodb&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/MongoDB-1E90FF?style=for-the-badge&logo=mongodb&logoColor=white" height=25>
 
-<img src="https://img.shields.io/badge/bootstrap-9b6647.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/bootstrap-1E90FF.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height=25>
 
-<img src="https://img.shields.io/badge/firebase-9b6647?style=for-the-badge&logo=firebase&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/firebase-1E90FF?style=for-the-badge&logo=firebase&logoColor=white" height=25>
 
-<img src="https://img.shields.io/badge/Visual_Studio-9b6647?style=for-the-badge&logo=visual%20studio&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Visual_Studio-1E90FF?style=for-the-badge&logo=visual%20studio&logoColor=white" height=25>
 
-<img src="https://img.shields.io/badge/GIT-9b6647?style=for-the-badge&logo=git&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/GIT-1E90FF?style=for-the-badge&logo=git&logoColor=white" height=25>
 </p>
