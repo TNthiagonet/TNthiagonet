@@ -53,6 +53,8 @@
 <h2 align="center">Minhas Skills</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Fedora-000000?style=for-the-badge&logo=FEDORA&logoColor=white%22%20height=25">
+<img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=Apple&logoColor=white%22%20height=25">
+<img src="https://img.shields.io/badge/windows-1E90FF?style=for-the-badge&logo=windows&logoColor=white%22%20height=25%3E">
 <img src="https://img.shields.io/badge/Node.js-008000?style=for-the-badge&logo=nodedotjs&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/React-4169E1?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>  
 <img src="https://img.shields.io/badge/Java-778899?style=for-the-badge&logo=oracle&logoColor=F7DF1E" height=25>
