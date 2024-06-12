@@ -52,17 +52,13 @@
 <!--Sesão de Habilidades -->
 <h2 align="center">Minhas Skills</h2>
 <p align="center">
-<img src="https://img.shields.io/badge/Visual_Studio-0000CD?style=for-the-badge&logo=visual%20studio&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/Pycharm-32CD32?style=for-the-badge&logo=pycharm&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/HTML5-8B0000?style=for-the-badge&logo=html5&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/JavaScript-DAA520?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>
-<img src="https://img.shields.io/badge/bootstrap-8A2BE2.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/Java-778899?style=for-the-badge&logo=oracle&logoColor=F7DF1E" height=25>
 <img src="https://img.shields.io/badge/Python-4682B4?style=for-the-badge&logo=python&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/Node.js-008000?style=for-the-badge&logo=nodedotjs&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/React-4169E1?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>
-<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" height=25>
 </p>
 
 <!--Segunda GIF -->
