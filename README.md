@@ -61,7 +61,6 @@
 <img src="https://img.shields.io/badge/JavaScript-DAA520?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>    
 <img src="https://img.shields.io/badge/HTML5-8B0000?style=for-the-badge&logo=html5&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GITHUB&logoColor=white%22%20height=25>
 </p>
 
 <!--Segunda GIF -->
