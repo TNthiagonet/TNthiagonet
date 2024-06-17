@@ -61,9 +61,9 @@
 <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=dodger blue" height=25>
 <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=orange red" height=25>
 <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=gold" height=25>
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/SASS-000000?style=for-the-badge&logo=sass&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=firebrick" height=25>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=deep sky blue" height=25>
+<img src="https://img.shields.io/badge/SASS-000000?style=for-the-badge&logo=sass&logoColor=light coral" height=25>
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" height=25>
 </p>
 
