@@ -54,16 +54,16 @@
 <p align="center">
 <img src="https://img.shields.io/badge/MX-000000?style=for-the-badge&logo=MXlinux&logoColor=white%22%20height=25">
 <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=Apple&logoColor=white%22%20height=25">
-<img src="https://img.shields.io/badge/windows-1E90FF?style=for-the-badge&logo=windows&logoColor=white%22%20height=25%3E">
+<img src="https://img.shields.io/badge/windows-000000?style=for-the-badge&logo=windows&logoColor=white%22%20height=25%3E">
 <img src="https://img.shields.io/badge/Node.js-008000?style=for-the-badge&logo=nodedotjs&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/React-4169E1?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>  
-<img src="https://img.shields.io/badge/Java-778899?style=for-the-badge&logo=oracle&logoColor=F7DF1E" height=25>
-<img src="https://img.shields.io/badge/Python-4682B4?style=for-the-badge&logo=python&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>  
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=oracle&logoColor=F7DF1E" height=25>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=white%22%20height=25">
-<img src="https://img.shields.io/badge/JavaScript-DAA520?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>    
-<img src="https://img.shields.io/badge/HTML5-8B0000?style=for-the-badge&logo=html5&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/Sass-FFA07A?style=for-the-badge&logo=sass&logoColor=DA43AD" height=25>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>    
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=DA43AD" height=25>
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white%22%20height=25">
 </p>
 
