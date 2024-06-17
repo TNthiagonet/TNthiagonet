@@ -3,9 +3,9 @@
 <!--Texto de apresentação animado -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=2000&multiline=true&width=435&lines=Ol%C3%A1!+eu+sou+o+Thiago;muitos+me+conhecem+como+ThiagoNET;...;..." alt="Typing SVG" /></a>
 <p align="left">💻 Sou graduando em Sistemas de Informação </p> 
-<p align="left">💼 Tenho trabalhado como freelaner em aplicações web </p>  
-<p align="left">📚 Venho estudando as linguagens Java e Python </p>  
-<p align="left">✝️ Cristão católico. luthier, músico e gamer!</p>
+<p align="left">💼 Tenho trabalhado desenvolvendo aplicações web </p>  
+<p align="left">📚 Venho estudando as linguagens: Java e Python </p>  
+<p align="left">✝️ Cristão católico.</p>
 <p align="left">🪕 Músico. </p> 
 <p align="left">🎮 Gamer. </p> 
 
