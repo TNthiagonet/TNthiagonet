@@ -51,7 +51,7 @@
 </div>
 
 ### 🖥️ Tecnologias e Ferramentas: 
-<img width="200px" align="right" src="https://github.com/TNthiagonet/ThiagoNET/blob/master/src/animations/icones/Home.json">
+<img width="200px" align="right" src="https://github.com/TNthiagonet/ThiagoNET/blob/master/public/tn.svg">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
