@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=1E90FF"/>
 </a>
 </p>
-<p><strong>JavaScript, CSS3, HTML5</strong> - Página dinâmica da BenCash Financeira que disponibiliza de serviços como emprestimo, seguros, financiamentos e outros...</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> - Página da BenCash Financeira que disponibiliza de serviços como emprestimo, seguros, financiamentos e outros...</p>
 </div>
 </td>
 <td width="50%">
@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=1E90FF"/>
 </a>
 </p>
-<p><strong>JavaScript, CSS3, HTML5, Bootstrap</strong> Página dinâmica da professora de lingua portuguesa Thalyne Menezes, onde ela disponibiliza cursos de redação e preparação de alunos para a prova do ENEM</p>
+<p><strong>JavaScript, CSS3, HTML5, Bootstrap</strong> Página da professora de lingua portuguesa Thalyne Menezes, onde ela disponibiliza cursos de redação e preparação de alunos para a prova do ENEM</p>
 </div>
 </table>
 
