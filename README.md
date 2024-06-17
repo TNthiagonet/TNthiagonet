@@ -5,8 +5,10 @@
 <p align="left">💻 Sou graduando em Sistemas de Informação </p> 
 <p align="left">💼 Tenho trabalhado como freelaner em aplicações web </p>  
 <p align="left">📚 Venho estudando as linguagens Java e Python </p>  
-<p align="left">❤️ Cristão católico, filho, pai, luthier, músico e gamer!</p>
-<p align="left">👨🏽‍💻 Estou a disposição. </p>  
+<p align="left">✝️ Cristão católico. luthier, músico e gamer!</p>
+<p align="left">🪕 Músico. </p> 
+<p align="left">🎮 Gamer. </p> 
+
 
 
 ### 🖥️ Tecnologias e Ferramentas: 
