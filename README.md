@@ -49,23 +49,21 @@
 </table>
 
 </div>
-<!--Sesão de Habilidades -->
-<h2 align="center">Minhas Skills</h2>
-<p align="center">
-<img src="https://img.shields.io/badge/MX-000000?style=for-the-badge&logo=mxlinux&logoColor=silver" height=25>
-<img src="https://img.shields.io/badge/MACOS-000000?style=for-the-badge&logo=apple&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/WINDOWS-000000?style=for-the-badge&logo=windows&logoColor=cyan" height=25>
-<img src="https://img.shields.io/badge/NODE-000000?style=for-the-badge&logo=nodedotjs&logoColor=green" height=25>
-<img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=teal" height=25>
-<img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=oracle&logoColor=tomato" height=25>
-<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=dodger blue" height=25>
-<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=orange red" height=25>
-<img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=gold" height=25>
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=firebrick" height=25>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=cyan" height=25>
-<img src="https://img.shields.io/badge/SASS-000000?style=for-the-badge&logo=sass&logoColor=light coral" height=25>
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" height=25>
-</p>
+
+### 🖥️ Tecnologias e Ferramentas: 
+<img width="200px" align="right" src="https://i.ibb.co/n3JFjSt/jeni02.png">
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/></code>
+<code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" title = "CSHARP"/></code>
+<code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dotnetcore/dotnetcore-original.svg" title = "DOTNET"/></code>
+<code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" title = "KOTLIN"/></code>
+
 
 <!--Segunda GIF -->
   
