@@ -33,7 +33,7 @@
 <h3 align="center" color="white">BenCash Financeira</h2>
 <div align="center" >  
 <a href='https://bencash.com.br/'>
-<img src="https://github.com/TNthiagonet/TNthiagonet/blob/main/bencash.gif" alt="BenCash" height="322px" width="100%" />
+<img src="https://github.com/TNthiagonet/TNthiagonet/blob/main/bencash.gif" alt="BenCash" height="322px" width="480px" />
 </a>
 <br>
 <br>
@@ -53,7 +53,7 @@
 <h3 align="center" color="white">Thalyne Menezes</h2>
 <div align="center" >  
 <a href='#'>
-<img src="https://github.com/TNthiagonet/TNthiagonet/blob/main/thalynemenezes.gif" alt="" height="322px" width="100%" />
+<img src="https://github.com/TNthiagonet/TNthiagonet/blob/main/thalynemenezes.gif" alt="" height="322px" width="480px" />
 </a>
 <br>
 <br>
