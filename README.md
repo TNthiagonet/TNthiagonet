@@ -36,7 +36,7 @@
 <br>
 <br>
 <p>
-<a href="https://github.com/euBenCash/bencash" target="_blank">
+<a href="https://github.com/TNthiagonet/BenCashFinanceira" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
 <a href="https://bencash.com.br/" target="_blank">
