@@ -58,7 +58,7 @@
 <br>
 <br>
 <p>
-<a href="https://github.com/eu7H14G0D/thalynemenezes" target="_blank">
+<a href="https://github.com/TNthiagonet/ThalyneMenezes" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
 <a href="https://thalynemenezes.com.br/" target="_blank">
