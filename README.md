@@ -112,10 +112,6 @@
 </table>
 
 </div>
-
-<!-- GIF -->
-  
-![alt text](https://github.com/TNthiagonet/TNthiagonet/blob/main/development.gif?raw=true)
    
 <!--Status GitHub -->
 <div align="left">
