@@ -76,6 +76,60 @@
 </a>
 </p>
 </div>
+<td width="50%">
+<br>
+<h3 align="center" color="white">Thalyne Menezes</h2>
+<div align="center" >  
+<a href='#'>
+<img src="https://github.com/TNthiagonet/TNthiagonet/blob/main/thalynemenezes.gif" alt="" height="322px" width="444px" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/TNthiagonet/ThalyneMenezes" target="_blank">
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://thalynemenezes.com.br/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=1E90FF"/>
+</a>
+</p>
+<p>Página da professora de lingua portuguesa Thalyne Menezes, onde ela disponibiliza cursos de redação e preparação de alunos para a prova do ENEM</p>
+  <p>
+<a href="https://github.com/TNthiagonet/ThalyneMenezes" target="_blank">
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://thalynemenezes.com.br/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=1E90FF"/>
+</a>
+</p>
+</div>
+<td width="50%">
+<br>
+<h3 align="center" color="white">Thalyne Menezes</h2>
+<div align="center" >  
+<a href='#'>
+<img src="https://github.com/TNthiagonet/TNthiagonet/blob/main/thalynemenezes.gif" alt="" height="322px" width="444px" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/TNthiagonet/ThalyneMenezes" target="_blank">
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://thalynemenezes.com.br/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=1E90FF"/>
+</a>
+</p>
+<p>Página da professora de lingua portuguesa Thalyne Menezes, onde ela disponibiliza cursos de redação e preparação de alunos para a prova do ENEM</p>
+  <p>
+<a href="https://github.com/TNthiagonet/ThalyneMenezes" target="_blank">
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://thalynemenezes.com.br/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=1E90FF"/>
+</a>
+</p>
+</div>
 </table>
 
 </div>
