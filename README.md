@@ -29,7 +29,7 @@
 <h2 align="center">Projetos em destaque </h2>
 <div align="center">
 <table>
-<br>
+<tr>
 <td width="50%">
 <h3 align="center" color="white">BenCash Financeira</h2>
 <div align="center" >  
@@ -77,6 +77,7 @@
 </p>
 </div>
 <td width="50%">
+<br>
 <br>
 <h3 align="center" color="white">Thalyne Menezes</h2>
 <div align="center" >  
