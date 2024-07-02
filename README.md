@@ -33,7 +33,7 @@
 <td width="50%">
 <h3 align="center" color="white">ThiagoNET</h2>
 <div align="center" >  
-<a href='https://thiagonet.com/'>
+<a href='https://thiagonet.com/' target="_blank">
 <img src="https://github.com/TNthiagonet/ThiagoNET/blob/master/src/img/2024-06-29%2022-27-44.gif" alt="ThiagoNET" height="322px" width="444px" />
 </a>
 <br>
@@ -53,7 +53,7 @@
 <td width="50%">
 <h3 align="center" color="white">JC Goleiros</h2>
 <div align="center" >  
-<a href='#'>
+<a href='https://jcgoleiros.netlify.app' target="_blank">
 <img src="https://github.com/TNthiagonet/JC_Goleiros/blob/main/src/img/Captura%20de%20tela%20de%202024-06-29%2012-00-13.png" alt="JC Goleiros" height="322px" width="444px" />
 </a>
 <br>
@@ -62,7 +62,7 @@
 <a href="https://github.com/TNthiagonet/JC_Goleiros/" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
-<a href="#" target="_blank">
+<a href="https://jcgoleiros.netlify.app" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=1E90FF"/>
 </a>
 </p>
@@ -73,7 +73,7 @@
 <td width="50%">
 <h3 align="center" color="white">BenCash Financeira</h2>
 <div align="center" >  
-<a href='https://bencash.com.br/'>
+<a href='https://bencash.com.br/' target="_blank">
 <img src="https://github.com/TNthiagonet/TNthiagonet/blob/main/bencash.gif" alt="BenCash" height="322px" width="444px" />
 </a>
 <br>
@@ -93,7 +93,7 @@
 <td width="50%">
 <h3 align="center" color="white">Thalyne Menezes</h2>
 <div align="center" >  
-<a href='#'>
+<a href='https://thalynemenezes.com.br' target="_blank">
 <img src="https://github.com/TNthiagonet/TNthiagonet/blob/main/thalynemenezes.gif" alt="Thalyne Menezes" height="322px" width="444px" />
 </a>
 <br>
