@@ -31,22 +31,22 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center" color="white">BenCash Financeira</h2>
+<h3 align="center" color="white">ThiagoNET</h2>
 <div align="center" >  
-<a href='https://bencash.com.br/'>
-<img src="https://github.com/TNthiagonet/TNthiagonet/blob/main/bencash.gif" alt="BenCash" height="322px" width="444px" />
+<a href='https://thiagonet.com/'>
+<img src="https://github.com/TNthiagonet/ThiagoNET/blob/master/src/img/2024-06-29%2022-27-44.gif" alt="ThiagoNET" height="322px" width="444px" />
 </a>
 <br>
 <br>
 <p>
-<a href="https://github.com/TNthiagonet/BenCashFinanceira" target="_blank">
+<a href="https://github.com/TNthiagonet/ThiagoNET" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
-<a href="https://bencash.com.br/" target="_blank">
+<a href="https://thiagonet.com" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=1E90FF"/>
 </a>
 </p>
-<p>Página da BenCash Financeira que disponibiliza de serviços como emprestimo, seguros, financiamentos e outros...</p>
+<p>Página da ThiagoNET que disponibiliza de serviços de desenvolvimento web e outros...</p>
 </div>
 </td>
 <td width="50%">
