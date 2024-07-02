@@ -106,7 +106,7 @@
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=1E90FF"/>
 </a>
 </p>
-<p>Página da Thalyne Menezes professora de lingua portuguesa que disponibiliza curso de redação.</p>
+<p>Página da professora Thalyne Menezes que disponibiliza curso de redação.</p>
 </div>
 </td>
 </table>
