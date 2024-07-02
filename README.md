@@ -29,7 +29,7 @@
 <h2 align="center">Projetos em destaque </h2>
 <div align="center">
 <table>
-<tr>
+  <tr>
 <td width="50%">
 <h3 align="center" color="white">ThiagoNET</h2>
 <div align="center" >  
@@ -49,7 +49,27 @@
 <p>Página da ThiagoNET que disponibiliza de serviços de desenvolvimento web e outros...</p>
 </div>
 </td>
-<tr>
+  <tr>
+<td width="50%">
+<h3 align="center" color="white">JC Goleiros</h2>
+<div align="center" >  
+<a href='#'>
+<img src="https://github.com/TNthiagonet/JC_Goleiros/blob/main/src/img/Captura%20de%20tela%20de%202024-06-29%2012-00-13.png" alt="JC Goleiros" height="322px" width="444px" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/TNthiagonet/JC_Goleiros/" target="_blank">
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=1E90FF"/>
+</a>
+</p>
+<p>Página da ThiagoNET que disponibiliza de serviços de desenvolvimento web e outros...</p>
+</div>
+</td>
+  <tr>
 <td width="50%">
 <h3 align="center" color="white">ThiagoNET</h2>
 <div align="center" >  
@@ -63,6 +83,26 @@
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
 <a href="https://thiagonet.com" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=1E90FF"/>
+</a>
+</p>
+<p>Página da ThiagoNET que disponibiliza de serviços de desenvolvimento web e outros...</p>
+</div>
+</td>
+  <tr>
+<td width="50%">
+<h3 align="center" color="white">JC Goleiros</h2>
+<div align="center" >  
+<a href='#'>
+<img src="https://github.com/TNthiagonet/JC_Goleiros/blob/main/src/img/Captura%20de%20tela%20de%202024-06-29%2012-00-13.png" alt="JC Goleiros" height="322px" width="444px" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/TNthiagonet/JC_Goleiros/" target="_blank">
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<a href="#" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=1E90FF"/>
 </a>
 </p>
