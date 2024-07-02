@@ -75,32 +75,6 @@
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=1E90FF"/>
 </a>
 </p>
-<br>
-<br>
-</p>
-<p>Página da professora de lingua portuguesa Thalyne Menezes, onde ela disponibiliza cursos de redação e preparação de alunos para a prova do ENEM</p>
-<p>
-<a href="https://github.com/TNthiagonet/ThalyneMenezes" target="_blank">
-<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
-</a>  
-<a href="https://thalynemenezes.com.br/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=1E90FF"/>
-</a>
-</p>
-<br>
-<br>
-</p>
-<p>Página da professora de lingua portuguesa Thalyne Menezes, onde ela disponibiliza cursos de redação e preparação de alunos para a prova do ENEM</p>
-<p>
-<a href="https://github.com/TNthiagonet/ThalyneMenezes" target="_blank">
-<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
-</a>  
-<a href="https://thalynemenezes.com.br/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=1E90FF"/>
-</a>
-</p>
-<br>
-<br>
 </div>
 </table>
 
