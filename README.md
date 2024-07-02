@@ -51,6 +51,7 @@
 </td>
 <td width="50%">
 <br>
+<br>
 <h3 align="center" color="white">Thalyne Menezes</h2>
 <div align="center" >  
 <a href='#'>
@@ -67,7 +68,7 @@
 </a>
 </p>
 <p>Página da professora de lingua portuguesa Thalyne Menezes, onde ela disponibiliza cursos de redação e preparação de alunos para a prova do ENEM</p>
-  <p>
+<p>
 <a href="https://github.com/TNthiagonet/ThalyneMenezes" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
@@ -95,7 +96,7 @@
 </a>
 </p>
 <p>Página da professora de lingua portuguesa Thalyne Menezes, onde ela disponibiliza cursos de redação e preparação de alunos para a prova do ENEM</p>
-  <p>
+<p>
 <a href="https://github.com/TNthiagonet/ThalyneMenezes" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
@@ -105,6 +106,7 @@
 </p>
 </div>
 <td width="50%">
+<br>
 <br>
 <h3 align="center" color="white">Thalyne Menezes</h2>
 <div align="center" >  
@@ -122,7 +124,7 @@
 </a>
 </p>
 <p>Página da professora de lingua portuguesa Thalyne Menezes, onde ela disponibiliza cursos de redação e preparação de alunos para a prova do ENEM</p>
-  <p>
+<p>
 <a href="https://github.com/TNthiagonet/ThalyneMenezes" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
