@@ -102,7 +102,7 @@
 <a href="https://github.com/TNthiagonet/ThalyneMenezes/" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
-<a href="https:thalynemenezes.com.br" target="_blank">
+<a href="https://thalynemenezes.com.br" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=1E90FF"/>
 </a>
 </p>
