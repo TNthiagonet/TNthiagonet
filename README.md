@@ -120,7 +120,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TNthiagonet&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <!--Redes -->
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/thiagobrunomc"><img src="https://img.shields.io/badge/Twitter(X)-1E90FF?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
 <a href="https://www.instagram.com/thiagocavaco/"><img src="https://img.shields.io/badge/Instagram-FF7F50?style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/thiagonet/"><img src="https://img.shields.io/badge/Linkedin-4169E1?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
