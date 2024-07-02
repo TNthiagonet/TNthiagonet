@@ -29,7 +29,7 @@
 <h2 align="center">Projetos em destaque </h2>
 <div align="center">
 <table>
-<tr>
+<br>
 <td width="50%">
 <h3 align="center" color="white">BenCash Financeira</h2>
 <div align="center" >  
