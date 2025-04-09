@@ -33,7 +33,7 @@
 <td width="50%">
 <h3 align="center" color="white">ThiagoNET</h2>
 <div align="center" >  
-<a href='https://thiagonet.com/' target="_blank">
+<a href='https://thiagonet.com.br/' target="_blank">
 <img src="https://github.com/TNthiagonet/TNthiagonet/blob/main/ThiagoNET.gif" alt="ThiagoNET" height="322px" width="444px" />
 </a>
 <br>
@@ -42,7 +42,7 @@
 <a href="https://github.com/TNthiagonet/ThiagoNET" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
-<a href="https://thiagonet.com" target="_blank">
+<a href="https://thiagonet.com.br" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=1E90FF"/>
 </a>
 </p>
